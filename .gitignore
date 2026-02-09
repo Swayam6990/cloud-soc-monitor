@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+soc.db
+incident_report.pdf

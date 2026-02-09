@@ -1,0 +1,12 @@
+[HIGH] Blacklisted IP detected: 185.220.101.1
+[MEDIUM] Brute force suspected for user: admin
+[MEDIUM] Brute force suspected for user: user1
+[MEDIUM] Brute force suspected for user: user2
+2026-02-09 22:20:44.822543 [HIGH] Blacklisted IP detected: 185.220.101.1
+2026-02-09 22:20:44.896159 [MEDIUM] Brute force suspected for user: admin
+2026-02-09 22:20:44.913247 [MEDIUM] Brute force suspected for user: user1
+2026-02-09 22:20:44.928154 [MEDIUM] Brute force suspected for user: user2
+2026-02-09 22:25:15.609614 [HIGH] Blacklisted IP detected: 185.220.101.1
+2026-02-09 22:25:15.691109 [MEDIUM] Brute force suspected for user: admin
+2026-02-09 22:25:15.712346 [MEDIUM] Brute force suspected for user: user1
+2026-02-09 22:25:15.730229 [MEDIUM] Brute force suspected for user: user2
